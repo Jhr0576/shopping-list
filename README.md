@@ -3,3 +3,6 @@
 - xbox
 - milk
 - butter
+- carrots
+- chicken
+- oranges
